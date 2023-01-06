@@ -1,0 +1,9 @@
+@media (min-width:1024px) {
+    .rightnav{
+        position: relative;
+    }
+    .rightnavchild{
+        position: absolute;
+        right: 30px;
+    }
+}
